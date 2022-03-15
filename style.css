@@ -1,0 +1,43 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+
+#div1{
+    width: 30%;
+    margin: auto;
+    margin-top: 20px;
+    border: transparent 1px solid;
+    border-radius: 5px;
+    background-color: rgba(127, 182, 255, 0.415);
+}
+
+#titulo{
+    text-align: center;
+}
+.inputs{
+    display: block;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 15px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+#botao{
+    margin-left: 5%;
+    margin-bottom: 15px;
+}
+
+#info{
+    display: none;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#info p{
+    margin-bottom: 0;
+    box-sizing: border-box;
+}
